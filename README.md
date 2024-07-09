@@ -1,3 +1,5 @@
+NAME : ARUN ROSHAN R S P DOMAIN NAME : DATA ANALYST INTERN ID : BATCH DURATION : 4 WEEKS MENTOR NAME : Sravani gouni
+
 Stock Price Prediction Using Linear Regression This project uses Linear Regression to predict the closing prices of Google's stock based on the opening prices. The dataset used in this analysis is a CSV file containing historical stock prices. The project demonstrates data loading, preprocessing, model training, and evaluation using Python libraries such as Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn.
 
 Requirements Python 3.x Pandas NumPy Matplotlib Seaborn Scikit-learn
