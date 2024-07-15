@@ -23,3 +23,8 @@ Make Predictions Use the trained model to make predictions on the test data.
 Evaluate the Model Calculate the Mean Squared Error (MSE) and R-squared value to evaluate the model's performance.
 
 Visualize the Results Plot the actual vs. predicted closing prices.
+
+![i1](https://github.com/user-attachments/assets/d6214315-b9a7-469d-8c0e-7739e250dc56)
+
+![12](https://github.com/user-attachments/assets/dc2ec444-aff5-489f-918c-a64cb90832c3)
+
